@@ -12,3 +12,6 @@ The structure of the project consists of four main classes:
 
 
 To test the project, I mainly used manual testing and went through all the potential scenarios(worked better since there weren't many to go through, however, would definitely need unit tests if I were to consistently make changes to the project to prevent any bugs from popping up)
+
+
+To run this project you would need a suitable SDK, I use Java 17 for this project
